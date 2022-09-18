@@ -1,5 +1,6 @@
 /* google font link */
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
 
 body {
     font-family: 'Poppins', sans-serif;
@@ -11,5 +12,23 @@ body {
 
 .header_top {
     background-color: #fff;
+    font-size: 16px;
+}
+
+.header_bottom {
+    background-color: #00cfd1;
+}
+
+.logo_text {
+    font-weight: 700;
+    font-family: 'Lobster', cursive;
+    font-size: 45px;
+}
+
+.first_lg {
+    color: #e90eba;
+}
+
+.bottom-left p {
     font-size: 16px;
 }
