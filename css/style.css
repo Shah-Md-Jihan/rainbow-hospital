@@ -7,6 +7,10 @@ body {
     max-width: 1400px;
 }
 
+/*====================== common css =====================*/
+.common_button {
+    background-color: #f96332;
+}
 
 /*------------------------ header section styles -------------------------*/
 
@@ -44,4 +48,16 @@ body {
     top: -28px;
     left: 56px;
     z-index: 9999;
+}
+
+.appointment_section {
+    position: relative;
+}
+
+.appointment_container {
+    position: absolute;
+    width: 90%;
+    left: 56px;
+    top: -70px;
+    z-index: 99999;
 }
