@@ -43,4 +43,5 @@ body {
     width: 90%;
     top: -28px;
     left: 56px;
+    z-index: 9999;
 }
