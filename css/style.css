@@ -3,4 +3,13 @@
 
 body {
     font-family: 'Poppins', sans-serif;
+    max-width: 1400px;
+}
+
+
+/*------------------------ header section styles -------------------------*/
+
+.header_top {
+    background-color: #fff;
+    font-size: 16px;
 }
