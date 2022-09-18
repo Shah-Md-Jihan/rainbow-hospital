@@ -32,3 +32,15 @@ body {
 .bottom-left p {
     font-size: 16px;
 }
+
+/*-------------------------------------- nav bar section style start -----------------------------------*/
+.nav_bar_section {
+    position: relative;
+}
+
+.nav_bar_container {
+    position: absolute;
+    width: 90%;
+    top: -28px;
+    left: 56px;
+}
