@@ -12,6 +12,8 @@ body {
     background-color: #f96332;
 }
 
+
+
 /*------------------------ header section styles -------------------------*/
 
 .header_top {
@@ -44,9 +46,9 @@ body {
 
 .nav_bar_container {
     position: absolute;
-    width: 90%;
+    width: 95%;
     top: -28px;
-    left: 56px;
+    left: 35px;
     z-index: 9999;
 }
 
@@ -54,10 +56,10 @@ body {
     position: relative;
 }
 
-.appointment_container {
+.apointment_container {
     position: absolute;
-    width: 90%;
-    left: 56px;
-    top: -70px;
-    z-index: 99999;
+    width: 95%;
+    top: -128px;
+    left: 35px;
+    z-index: 9999;
 }
