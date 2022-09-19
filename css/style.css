@@ -8,10 +8,22 @@ body {
 }
 
 /*====================== common css =====================*/
+
+p {
+    font-size: 15px;
+}
+
 .common_button {
     background-color: #f96332;
 }
 
+.custom_outline_button {
+    border: 1px solid #f96332;
+    padding: 10px 50px;
+    background: none;
+    border-radius: 23px;
+    font-size: 14px;
+}
 
 
 /*------------------------ header section styles -------------------------*/
@@ -36,7 +48,7 @@ body {
 }
 
 .bottom-left p {
-    font-size: 16px;
+    font-size: 15px;
 }
 
 /*-------------------------------------- nav bar section style start -----------------------------------*/
@@ -46,20 +58,44 @@ body {
 
 .nav_bar_container {
     position: absolute;
-    width: 95%;
+    width: 90%;
     top: -28px;
-    left: 35px;
+    left: 65px;
     z-index: 9999;
 }
 
+/*--------------------------------------- apointment section styles ----------------------------------*/
 .appointment_section {
     position: relative;
 }
 
 .apointment_container {
     position: absolute;
-    width: 95%;
+    width: 90%;
     top: -128px;
-    left: 35px;
+    left: 65px;
     z-index: 9999;
+}
+
+
+/*---------------------------------------- about section styles ----------------------------------------*/
+
+.about_section {
+    position: relative;
+}
+
+.about_container {
+    width: 90%;
+    margin-top: 55px;
+    position: absolute;
+    left: 65px;
+}
+
+.about_tex_top {
+    text-align: justify;
+    font-size: 22px;
+}
+
+.about_text_bottom {
+    text-align: justify;
 }
