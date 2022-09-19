@@ -10,7 +10,7 @@ body {
 /*====================== common css =====================*/
 
 p {
-    font-size: 15px;
+    font-size: 14px;
 }
 
 .common_button {
@@ -98,4 +98,20 @@ p {
 
 .about_text_bottom {
     text-align: justify;
+}
+
+/*------------------------------------ service section styles --------------------------------*/
+
+.service_section {
+    margin-top: 600px;
+    background-color: #eceeef;
+}
+
+.service_icon {
+    font-size: 60px;
+}
+
+.service_btn {
+    font-size: 13px;
+    color: #f96332;
 }
