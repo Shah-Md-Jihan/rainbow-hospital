@@ -115,3 +115,21 @@ p {
     font-size: 13px;
     color: #f96332;
 }
+
+/*----------------------------------- statistics section styles start -------------------------------*/
+.statistics_section {
+    background-color: #a890d3;
+    color: #ffff;
+}
+
+.statistic_icon {
+    font-size: 60px;
+}
+
+.statistic_value {
+    font-size: 45px;
+}
+
+.statistic_type {
+    font-size: 16px;
+}
