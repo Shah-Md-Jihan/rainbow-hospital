@@ -116,7 +116,7 @@ p {
     color: #f96332;
 }
 
-/*----------------------------------- statistics section styles start -------------------------------*/
+/*----------------------- statistics section styles start ------------------------*/
 .statistics_section {
     background-color: #a890d3;
     color: #ffff;
@@ -132,4 +132,11 @@ p {
 
 .statistic_type {
     font-size: 16px;
+}
+
+
+/*------------------------------- doctor section styles -----------------------*/
+
+.doctor_name {
+    font-size: 18px;
 }
