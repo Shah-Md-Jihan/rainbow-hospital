@@ -25,6 +25,17 @@ p {
     font-size: 14px;
 }
 
+.custom_block_button {
+    padding: 10px 50px;
+    background: #f96332;
+    border-radius: 23px;
+    font-size: 14px;
+    border: none;
+}
+
+.justify_text {
+    text-align: justify;
+}
 
 /*------------------------ header section styles -------------------------*/
 
@@ -139,4 +150,15 @@ p {
 
 .doctor_name {
     font-size: 18px;
+}
+
+/* choose section style start */
+.choose_us_section {
+    background-color: #2d3035;
+}
+
+/* choose section style end */
+
+.choose_section_footer {
+    background-color: #eceeef;
 }
