@@ -152,13 +152,20 @@ p {
     font-size: 18px;
 }
 
-/* choose section style start */
+/*--------------------------------- choose section style start --------------------------*/
 .choose_us_section {
     background-color: #2d3035;
 }
 
-/* choose section style end */
-
 .choose_section_footer {
     background-color: #eceeef;
 }
+
+/*---------------------------------- choose section style end -----------------------------*/
+
+/* latest blog section start */
+.blog_comment {
+    color: #f96332;
+}
+
+/* latest blog section end */
